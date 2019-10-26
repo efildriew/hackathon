@@ -1,6 +1,6 @@
 ## Hackathon Ironhack
 
-# Teletransport Bin
+# Teletransport
 
 El proyecto desarrollado en esta Hackaton consiste en desarrollar una landing page para una empresa de paquetería del futuro.  
 
